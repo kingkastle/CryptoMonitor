@@ -1,0 +1,49 @@
+name: dsenv
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.4.16=py36_0
+  - libedit=3.1.20170329=h6b74fdf_2
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - ncurses=6.1=hf484d3e_0
+  - openssl=1.0.2o=h20670df_0
+  - pip=10.0.1=py36_0
+  - python=3.6.6=hc3d631a_0
+  - readline=7.0=ha6073c6_4
+  - setuptools=39.2.0=py36_0
+  - sqlite=3.24.0=h84994c4_0
+  - tk=8.6.7=hc745277_3
+  - wheel=0.31.1=py36_0
+  - xz=5.2.4=h14c3975_4
+  - zlib=1.2.11=ha838bed_2
+  - pip:
+    - chardet==3.0.4
+    - coindesk==0.0.1a1
+    - coinmarketcap==5.0.3
+    - cryptocompare==0.6.1
+    - cycler==0.10.0
+    - get==1.0.3
+    - idna==2.7
+    - kiwisolver==1.0.1
+    - lxml==4.2.3
+    - matplotlib==2.2.2
+    - numpy==1.15.0
+    - pandas==0.23.3
+    - post==1.0.2
+    - public==1.0.3
+    - pyparsing==2.2.0
+    - python-dateutil==2.7.3
+    - pytrends==4.4.0
+    - pytz==2018.5
+    - query-string==1.0.2
+    - request==1.0.2
+    - requests==2.19.1
+    - requests-cache==0.4.13
+    - scikit-learn==0.19.2
+    - six==1.11.0
+    - urllib3==1.23
+prefix: /home/osboxes/miniconda/envs/dsenv
+
